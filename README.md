@@ -21,3 +21,24 @@ This project leverages NYC housing datasets to uncover market trends and determi
 - Exploratory Data Analysis (EDA) using Databricks notebooks
 - Data preprocessing, including cleaning and converting raw CSVs into analysis-ready formats
 - Communicating analytical results through effective data visualization
+
+**Install Dependencies**
+
+1. Change to new-york-city-housing directory
+
+2. Create a virtual environment named "venv"
+python3 -m venv venv
+
+3a. Activate the environment (macOS/Linux)
+source venv/bin/activate
+
+3b. Activate the environment (Windows command prompt)
+venv\Scripts\activate.bat
+
+4. Check pip version; if not already installed, do so
+pip --version
+
+5. Install dependencies in requirements.txt using pip
+pip install -r requirements.txt
+
+
