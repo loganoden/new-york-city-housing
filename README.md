@@ -1,7 +1,7 @@
 # new-york-city-housing
 ### Ohio State Data I/O 2026
 
-**Project Overview** 
+**Project Overview**
 
 This project leverages NYC housing datasets to uncover market trends and determine the primary drivers of property value. By employing data analytics and visualization techniques, the goal is to transform raw sales records into actionable insights presented through an interactive dashboard and a video summary.
 
